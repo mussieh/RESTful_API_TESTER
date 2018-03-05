@@ -2,7 +2,7 @@
 RESTful API Tester is a simple Android application that tests a RESTful API. In this case, the application
 queries Google's Books API searching for a given book's title and author's name. The app is based on the Android Developer Fundamentals Course
 found [here](https://www.gitbook.com/@google-developer-training), and has an updated layout using a ConstraintLayout with 
-a modular classification of the classes involved. It also cleans up the code and adds a progress indicator.
+a modular classification of the classes involved. It also has a cleaned up code and a progress indicator.
 
 ## Getting Started
 
