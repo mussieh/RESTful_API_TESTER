@@ -4,6 +4,8 @@ queries Google's Books API searching for a given book's title and author's name.
 found [here](https://www.gitbook.com/@google-developer-training), and has an updated layout using a ConstraintLayout with 
 a modular classification of the classes involved. It also has a cleaned up code and a progress indicator.
 
+![alt text](https://github.com/mussieh/RESTful_API_Tester/blob/master/restfulAPI.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
